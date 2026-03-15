@@ -1,0 +1,1538 @@
+[
+  {
+    "origin": "HNL",
+    "destination": "LIH",
+    "route": "KEOLA3.LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HNL",
+    "destination": "LIH",
+    "route": "KEOLA3.KEOLA.HNL258R..LIH148R.LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or below 8,000"
+  },
+  {
+    "origin": "HNL",
+    "destination": "MKK",
+    "route": "MKK5.MKK",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HNL",
+    "destination": "LNY",
+    "route": "PALAY3.LNY",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HNL",
+    "destination": "OGG",
+    "route": "PALAY3.LNY.CAMPS4.OGG",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": "Standard / Modified   Flows"
+  },
+  {
+    "origin": "HNL",
+    "destination": "OGG",
+    "route": "PALAY3.LNY.V2..V17.OGG",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "OGG   ILS OTS"
+  },
+  {
+    "origin": "HNL",
+    "destination": "OGG",
+    "route": "MKK5.MKK.V22.OGG",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 7,000, South Flow"
+  },
+  {
+    "origin": "HNL",
+    "destination": "OGG",
+    "route": "MKK5.MKK.V22.OGG",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or above 7,000, Standard   Flow"
+  },
+  {
+    "origin": "HNL",
+    "destination": "OGG",
+    "route": "MKK5.MKK.V8.BLUSH.V6.OGG",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At 5,000, Standard / South Flow"
+  },
+  {
+    "origin": "HNL",
+    "destination": "JHM",
+    "route": "MKK5.MKK.MKK100R.BOGEE..JHM",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HNL",
+    "destination": "ITO",
+    "route": "MKK5.PULPS.V21.PUMIC.V15.ITO",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": "At or above 13,000"
+  },
+  {
+    "origin": "HNL",
+    "destination": "ITO",
+    "route": "PALAY3.LNY.V21.PUMIC.V15.ITO",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": "At or below 12,000"
+  },
+  {
+    "origin": "HNL",
+    "destination": "ITO",
+    "route": "PALAY3.LNY.V16.UPP.V2.ITO",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "HNL",
+    "destination": "KOA",
+    "route": "PALAY3.LNY.VECKI9.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HNL",
+    "destination": "KOA",
+    "route": "PALAY3.LNY.KAYAK6.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "KOA ILS OTS"
+  },
+  {
+    "origin": "HNL",
+    "destination": "MUE",
+    "route": "PALAY3.LNY.V16.UPP.UPP174R.JASON..MUE",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HNL",
+    "destination": "HNM",
+    "route": "MKK5.MKK.V8.BLUSH.VB6.OGG.V11.BARBY.HNM",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 5,400, At or below 8,300"
+  },
+  {
+    "origin": "HNL",
+    "destination": "HNM",
+    "route": "MKK5.MKK.V22.BARBY.HNM",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 7,000"
+  },
+  {
+    "origin": "HNL",
+    "destination": "LUP",
+    "route": "MKK5.MKK..LUP",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "HNL",
+    "route": "MAUI5.OGG..LNY.JULLE5.HNL",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": "At or above 9,000, Standard   / Modified Flow"
+  },
+  {
+    "origin": "OGG",
+    "destination": "HNL",
+    "route": "BEACH4.LNY.JULLE5.HNL",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "South Flow"
+  },
+  {
+    "origin": "OGG",
+    "destination": "HNL",
+    "route": "OGG.V6.BLUSH.V8.HNL",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "HNL",
+    "route": "OGG.V6.BLUSH.V8.MKK.MKK300R.BAMBO.V12.HNL",
+    "category": "civilian",
+    "aircraftType": "C208s",
+    "notes": "At or above 8,000"
+  },
+  {
+    "origin": "OGG",
+    "destination": "HNL",
+    "route": "OGG.V6.BLUSH.V8.MKK..BAMBO.V12.HNL",
+    "category": "civilian",
+    "aircraftType": "C208s",
+    "notes": "At or above 8,000, RNAV/GPS equipped"
+  },
+  {
+    "origin": "OGG",
+    "destination": "KOA",
+    "route": "ONOHI2.ONOHI.VECKI9.KOA",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "KOA",
+    "route": "BEACH4.HARPO.V5.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or   above 8,100, South   Flow"
+  },
+  {
+    "origin": "OGG",
+    "destination": "KOA",
+    "route": "BEACH4.HARPO.V2.MAKEN.V5.KOA",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or above 8,100"
+  },
+  {
+    "origin": "OGG",
+    "destination": "KOA",
+    "route": "ONOHI2.BARBY.V11.UPP.VECKI9.KOA",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or   below 8,100"
+  },
+  {
+    "origin": "OGG",
+    "destination": "KOA",
+    "route": "OGG.V1.HARPO.V2.MAKEN   .V5.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or below 8,100, South Flow"
+  },
+  {
+    "origin": "OGG",
+    "destination": "ITO",
+    "route": "ONOHI2.BARBY.V22.BONUS.V21.PUMIC.V15.ITO",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "ITO",
+    "route": "BEACH4.HARPO.V21.PUMIC.V15.ITO",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or   above 10,000, South   Flow"
+  },
+  {
+    "origin": "OGG",
+    "destination": "ITO",
+    "route": "ONOHI2.BARBY.V11.PULPS.V21.PUMIC.V15.ITO",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or above 10,000"
+  },
+  {
+    "origin": "OGG",
+    "destination": "ITO",
+    "route": "ONOHI2.BARBY.V11.UPP.V2.ITO",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or below 10,000"
+  },
+  {
+    "origin": "OGG",
+    "destination": "ITO",
+    "route": "BEACH4.HARPO.V2.ITO",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or above 8,100, South Flow"
+  },
+  {
+    "origin": "OGG",
+    "destination": "MUE",
+    "route": "ONOHI2.BARBY.V11.UPP.UPP174R.JASON..MUE",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "MUE",
+    "route": "BEACH4.HARPO.V2.UPP.UPP174R.JASON..MUE",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "South Flow"
+  },
+  {
+    "origin": "OGG",
+    "destination": "LIH",
+    "route": "MAUI5.OGG..LNY.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": "At or above 9,000"
+  },
+  {
+    "origin": "OGG",
+    "destination": "LIH",
+    "route": "OGG.V6.BLUSH.CKH075R.CKH.V12.KEOLA.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "LIH",
+    "route": "BEACH4.LNY.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "South   Flow"
+  },
+  {
+    "origin": "OGG",
+    "destination": "JHM",
+    "route": "OGG.V6.BLUSH.V8.MKK.MKK100R.BOGEE..JHM",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "LNY",
+    "route": "OGG.V1.HARPO.V2.LNY",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "MKK",
+    "route": "OGG.V6..V8.MKK",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "HNM",
+    "route": "ONOHI2.BARBY..HNM",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or above 7,000"
+  },
+  {
+    "origin": "ITO",
+    "destination": "HNL",
+    "route": "ITO.V22.OKALA.V16.LNY.JULLE5.HNL",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "HNL",
+    "route": "ITO.PARIS4.PARIS.V2.UPP.V16.LNY.JULLE5.HNL",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": "ITO ATCT Closed"
+  },
+  {
+    "origin": "ITO",
+    "destination": "HNL",
+    "route": "ITO.PARIS4.PARIS.V2.UPP.V16.LNY.JULLE5.HNL",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or above 7,000, ITO ATCT Closed"
+  },
+  {
+    "origin": "ITO",
+    "destination": "LIH",
+    "route": "ITO.V22.OKALA.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 10,000, ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "LIH",
+    "route": "PARIS4.PARIS.V2.UPP.V23.FIRES.V20.JULLE.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 10,000, ITO ATCT Closed"
+  },
+  {
+    "origin": "ITO",
+    "destination": "LIH",
+    "route": "ITO.V22.OKALA.V16.KEOLA.HNL258R..LIH148R.LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or below 9,000, ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "LIH",
+    "route": "PARIS4.PARIS.V2.LNY.V16.KEOLA.HNL258R..LIH148R.LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or below 9,000, ITO ATCT Closed"
+  },
+  {
+    "origin": "ITO",
+    "destination": "OGG",
+    "route": "ITO.V22.OKALA.V16.UPP.V2.HARPO.CAMPS4.OGG",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 8,000, ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "OGG",
+    "route": "PARIS4.PARIS.V2.HARPO.CAMPS4.OGG",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 7,000, ITO ATCT Closed"
+  },
+  {
+    "origin": "ITO",
+    "destination": "JHM",
+    "route": "ITO.V22.OKALA.V16.LNY.LNY014R.BOGEE..JHM",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "JHM",
+    "route": "PARIS4.PARIS.V2.UPP.V16.LNY.LNY014R.BOGEE..JHM",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "ITO ATCT Closed"
+  },
+  {
+    "origin": "ITO",
+    "destination": "KOA",
+    "route": "ITO.V22.OKALA.VECKI9.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 9,000, ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "KOA",
+    "route": "ITO.V22.OKALA.V16.TIGAH.V3.MUE.VECKI9.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At 8,000, ITO   ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "KOA",
+    "route": "PARIS4.PARIS.V2.UPP.VECKI9.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "ITO ATCT Closed"
+  },
+  {
+    "origin": "ITO",
+    "destination": "MUE",
+    "route": "ITO.V22.OKALA.V16.TIGAH.V3.MUE",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "MUE",
+    "route": "PARIS4.PARIS.V3.MUE",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "ITO ATCT Closed"
+  },
+  {
+    "origin": "MKK",
+    "destination": "HNL",
+    "route": "MKK.V8.HNL",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "HNL",
+    "route": "HAPAI3.BAMBO.V12.HNL",
+    "category": "civilian",
+    "aircraftType": "C208",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "LNY",
+    "route": "MKK.V7.LNY",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "OGG",
+    "route": "MKK.V7.LNY.CAMPS4.OGG",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "OGG",
+    "route": "BLUSH2.BLUSH.V6.OGG",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "JHM",
+    "route": "MKK.MKK100R.BOGEE..JHM",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "KOA",
+    "route": "MKK.V7.LNY.VECKI9.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "ITO",
+    "route": "MKK.V7.LNY.V21.PUMIC.V15.ITO",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "ITO",
+    "route": "MKK.V7.LNY.V16.UPP.V2.ITO",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "LIH",
+    "route": "MKK.V8.ALANA.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "HNL",
+    "route": "LIH.V15.HNL",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "MKK",
+    "route": "LIH.V15.MKK",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "LNY",
+    "route": "LIH.V15.HNL.V2.LNY",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "OGG",
+    "route": "LIH.V15.HNL.V2.LNY.CAMPS4.OGG",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "OGG",
+    "route": "LIH.V15.MKK.V22.OGG",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or above 7,000"
+  },
+  {
+    "origin": "LIH",
+    "destination": "OGG",
+    "route": "LIH.V15.MKK.V8.BLUSH.V6.OGG",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or below 6,000"
+  },
+  {
+    "origin": "LIH",
+    "destination": "JHM",
+    "route": "LIH.V15.MKK.MKK100R.BOGEE..JHM",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "KOA",
+    "route": "LIH.V15.HNL.V2.LNY.VECKI9.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "MUE",
+    "route": "LIH.V15.HNL.V2.LNY.V16.UPP.UPP174R.JASON..MUE",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "ITO",
+    "route": "LIH.V15.HNL.V2.LNY.V21.PUMIC.V15.ITO",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": "At or above 10,000"
+  },
+  {
+    "origin": "LIH",
+    "destination": "ITO",
+    "route": "LIH.V15.HNL.V2.LNY.V16.UPP.V2.ITO",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or below 9,000"
+  },
+  {
+    "origin": "JHM",
+    "destination": "HNL",
+    "route": "JHM..CHAIN.JULLE5.HNL",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "JHM",
+    "destination": "ITO",
+    "route": "JHM..CHAIN.LNY360R.LNY.V21.PUMIC.V15.ITO",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": ""
+  },
+  {
+    "origin": "JHM",
+    "destination": "ITO",
+    "route": "JHM..CHAIN.LNY360R.LNY.V16.UPP.V2.ITO",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "JHM",
+    "destination": "MUE",
+    "route": "JHM..CHAIN.LNY360R.LNY.V16.UPP.UPP174R.JASON..MUE",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "JHM",
+    "destination": "KOA",
+    "route": "JHM..CHAIN.LNY360R.LNY.VECKI9.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "JHM",
+    "destination": "LNY",
+    "route": "JHM..CHAIN.LNY360R.LNY",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "JHM",
+    "destination": "LIH",
+    "route": "JHM..CHAIN.LNY360R.LNY.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LUP",
+    "destination": "HNL",
+    "route": "LUP..MKK.V8.HNL",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or below 6,000"
+  },
+  {
+    "origin": "LUP",
+    "destination": "HNL",
+    "route": "LUP..MKK.MKK300R.BAMBOO.V12.HNL",
+    "category": "civilian",
+    "aircraftType": "C208",
+    "notes": "At or above 7,000"
+  },
+  {
+    "origin": "LUP",
+    "destination": "JHM",
+    "route": "LUP..MKK.MKK100R.BOGEE..JHM",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "LUP",
+    "destination": "LNY",
+    "route": "LUP..MKK.V7.LNY",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "LUP",
+    "destination": "OGG",
+    "route": "LUP..MKK.V8.BLUSH.V6.OGG",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "LUP",
+    "destination": "OGG",
+    "route": "LUP..MKK.V7.LNY.CAMPS4.OGG",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "LUP",
+    "destination": "OGG",
+    "route": "LUP..MKK.V7.LNY.V2..V17..OGG",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": "At or above 5,000, OGG   ILS OTS"
+  },
+  {
+    "origin": "KOA",
+    "destination": "OGG",
+    "route": "KOA.V1.HARPO.CAMPS4.OGG",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "KOA",
+    "destination": "OGG",
+    "route": "KOA.KOA191R.CIGAK..MYNAH.V11.UPP.V2.HARPO.CAMPS4.OGG",
+    "category": "civilian",
+    "aircraftType": "C208",
+    "notes": "At or above 6,000"
+  },
+  {
+    "origin": "KOA",
+    "destination": "OGG",
+    "route": "KOA.KOA351R.ONOHI.V22.OGG",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or   above 9,000, South   Flow"
+  },
+  {
+    "origin": "KOA",
+    "destination": "OGG",
+    "route": "KOA.V5.MYNAH.V11.OGG",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "Below 9,000, South Flow"
+  },
+  {
+    "origin": "KOA",
+    "destination": "ITO",
+    "route": "KOA.V5.MYNAH.V3.PARIS.V2.ITO",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "KOA",
+    "destination": "MUE",
+    "route": "KOA.V5.MYNAH.V3.MUE",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "KOA",
+    "destination": "HNL",
+    "route": "KOA.V20.HOKLA.JULLE5.HNL",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 13,000"
+  },
+  {
+    "origin": "KOA",
+    "destination": "HNL",
+    "route": "KOA.V7.LNY.JULLE5.HNL",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or below 12,900"
+  },
+  {
+    "origin": "KOA",
+    "destination": "LIH",
+    "route": "KOA.V20.JULLE.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 13,000"
+  },
+  {
+    "origin": "KOA",
+    "destination": "LIH",
+    "route": "KOA.V7.LNY.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or below 12,900"
+  },
+  {
+    "origin": "KOA",
+    "destination": "JHM",
+    "route": "KOA.KOA191R.CIGAK..MYNAH.V11.UPP.V2.LNY.LNY014R.BOGEE..JHM",
+    "category": "civilian",
+    "aircraftType": "C208",
+    "notes": "At or above 6,000"
+  },
+  {
+    "origin": "MUE",
+    "destination": "ITO",
+    "route": "MUE.V3.PARIS.V2.ITO",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MUE",
+    "destination": "KOA",
+    "route": "MUE.V3.MYNAH.V5.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MUE",
+    "destination": "OGG",
+    "route": "MUE.V3.TIGAH.V16.UPP.V2.HARPO.CAMPS4.OGG",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": "At or above 7,000"
+  },
+  {
+    "origin": "MUE",
+    "destination": "JHM",
+    "route": "MUE.V3.TIGAH.V16.LNY.LNY014R.BOGEE..JHM",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MUE",
+    "destination": "LNY",
+    "route": "MUE.V3.TIGAH.V16.LNY",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MUE",
+    "destination": "MKK",
+    "route": "MUE.V3.TIGAH.V16.LNY.V7.MKK",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MUE",
+    "destination": "HNL",
+    "route": "MUE.V3.TIGAH.V16.LNY.JULLE5.HNL",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MUE",
+    "destination": "LIH",
+    "route": "MUE.V3.TIGAH.V16.UPP.V23.FIRES.V20.JULLE.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LNY",
+    "destination": "OGG",
+    "route": "LNY.CAMPS4.OGG",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LNY",
+    "destination": "HNL",
+    "route": "LNY.JULLE5.HNL",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LNY",
+    "destination": "HNL",
+    "route": "LNY.V7.MKK.MKK300R.BAMBO.V12.HNL",
+    "category": "civilian",
+    "aircraftType": "C208",
+    "notes": "At or below 6,000"
+  },
+  {
+    "origin": "LNY",
+    "destination": "JHM",
+    "route": "LNY.LNY014R.BOGEE..JHM",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LNY",
+    "destination": "KOA",
+    "route": "LNY.VECKI9.KOA",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LNY",
+    "destination": "MUE",
+    "route": "LNY.V16.UPP.UPP174R.JASON..MUE",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LNY",
+    "destination": "ITO",
+    "route": "LNY.V21.PUMIC.V15.ITO",
+    "category": "civilian",
+    "aircraftType": "JETS",
+    "notes": ""
+  },
+  {
+    "origin": "LNY",
+    "destination": "ITO",
+    "route": "LNY.V16.UPP.V2.ITO",
+    "category": "civilian",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "LNY",
+    "destination": "LIH",
+    "route": "LNY.V16.NAPUA..LIH",
+    "category": "civilian",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HNL",
+    "destination": "BKH",
+    "route": "KEOLA3.KEOLA..ASAYA..BKH",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or above 5,000"
+  },
+  {
+    "origin": "HNL",
+    "destination": "HHI",
+    "route": "HNL..HHI",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or below 5,000"
+  },
+  {
+    "origin": "HNL",
+    "destination": "NGF",
+    "route": "HNL..MUGGE..NGF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or below 9,000"
+  },
+  {
+    "origin": "HNL",
+    "destination": "JRF",
+    "route": "HNL..JRF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or below 3,000"
+  },
+  {
+    "origin": "OGG",
+    "destination": "BKH",
+    "route": "MAUI5.LNY.V16.SOK..ASAYA..BKH",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or above 9,000"
+  },
+  {
+    "origin": "OGG",
+    "destination": "HHI",
+    "route": "MAUI5.OGG..LNY.V16.ALANA..HHI",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": "At or above 9,000"
+  },
+  {
+    "origin": "OGG",
+    "destination": "HHI",
+    "route": "OGG.V6.BLUSH.V8.ALANA..HHI",
+    "category": "military",
+    "aircraftType": "PROPS",
+    "notes": "At or below 8,000"
+  },
+  {
+    "origin": "OGG",
+    "destination": "NGF",
+    "route": "MAUI5.OGG.V22.MKK..NUDSE..NGF",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": "At or above 9,000"
+  },
+  {
+    "origin": "OGG",
+    "destination": "NGF",
+    "route": "OGG.V6.BLUSH..NUDSE..NGF",
+    "category": "military",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "NGF",
+    "route": "OGG.V6.BLUSH.V8.MKK..NUDSE..NGF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or below 6,900"
+  },
+  {
+    "origin": "OGG",
+    "destination": "JRF",
+    "route": "OGG.V1.HARPO.V2.LNY.V16.ALANA..GECKO..JRF",
+    "category": "military",
+    "aircraftType": "PROPS",
+    "notes": "At or below 8,000"
+  },
+  {
+    "origin": "OGG",
+    "destination": "JRF",
+    "route": "OGG.V6.PLUMB.V22.MKK.MKK300R.BAMBO.V12.HNL..SIMSN..JRF",
+    "category": "military",
+    "aircraftType": "C208",
+    "notes": ""
+  },
+  {
+    "origin": "OGG",
+    "destination": "JRF",
+    "route": "OGG..RV LNY.V16.ALANA..GECKO..JRF",
+    "category": "military",
+    "aircraftType": "PROPS",
+    "notes": "At or above 8,100"
+  },
+  {
+    "origin": "OGG",
+    "destination": "JRF",
+    "route": "MAUI5.OGG..LNY.V16.ALANA..GECKO..JRF",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": "At or above 9,000"
+  },
+  {
+    "origin": "ITO",
+    "destination": "BKH",
+    "route": "ITO.V22.OKALA.V16.SOK..ASAYA..BKH",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "ITO",
+    "destination": "HHI",
+    "route": "ITO.V22.OKALA.V16.ALANA..HHI",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "HHI",
+    "route": "PARIS4.PARIS.V2.UPP.V16.ALANA..HHI",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "ITO ATCT Closed"
+  },
+  {
+    "origin": "ITO",
+    "destination": "NGF",
+    "route": "ITO.V22.OKALA.V16.LNY.V7.MKK..NUDSE..NGF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or above 7,000, ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "NGF",
+    "route": "PARIS4.PARIS.V2.UPP.V16.LNY.V7.MKK..NUDSE..NGF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or above 7,000, ITO ATCT Closed"
+  },
+  {
+    "origin": "ITO",
+    "destination": "JRF",
+    "route": "ITO.V22.OKALA.V16.ALANA..GECKO..JRF",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": "ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "JRF",
+    "route": "PARIS4.PARIS.V2.UPP.V16.ALANA..GECKO..JRF",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": "ITO ATCT Closed"
+  },
+  {
+    "origin": "ITO",
+    "destination": "JRF",
+    "route": "ITO.V22.OKALA.V16.GECKO..JRF",
+    "category": "military",
+    "aircraftType": "PROPS",
+    "notes": "At or above 8,000, ITO ATCT Open"
+  },
+  {
+    "origin": "ITO",
+    "destination": "JRF",
+    "route": "PARIS4.PARIS.V2.UPP.V16.GECKO..JRF",
+    "category": "military",
+    "aircraftType": "PROPS",
+    "notes": "At or above 7,000, ITO ATCT Closed"
+  },
+  {
+    "origin": "KOA",
+    "destination": "HHI",
+    "route": "KOA.V7.LNY.V16.ALANA..HHI",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "Below 13,000"
+  },
+  {
+    "origin": "KOA",
+    "destination": "HHI",
+    "route": "KOA.V20.JULLE.V16.ALANA..HHI",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or above 13,000"
+  },
+  {
+    "origin": "KOA",
+    "destination": "NGF",
+    "route": "KOA.V7.MKK..NUDSE..NGF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "KOA",
+    "destination": "JRF",
+    "route": "KOA.V7.LNY.V16.ALANA..GECKO..JRF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "Below 13,000"
+  },
+  {
+    "origin": "KOA",
+    "destination": "JRF",
+    "route": "KOA.V20.JULLE.V16.ALANA..GECKO..JRF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or above 13,000"
+  },
+  {
+    "origin": "LNY",
+    "destination": "HHI",
+    "route": "LNY.V16.ALANA..HHI",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LNY",
+    "destination": "JRF",
+    "route": "LNY.V16.ALANA..GECKO..JRF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "HHI",
+    "route": "MKK.V8.ALANA..HHI",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "JRF",
+    "route": "MKK.V8.GECKO..JRF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "MKK",
+    "destination": "JRF",
+    "route": "HAPAI3.BAMBO.V12.HNL..SIMSN..JRF",
+    "category": "military",
+    "aircraftType": "C208",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "BKH",
+    "route": "LIH..KREEN..SOK..ASAYA..BKH",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "HHI",
+    "route": "LIH.V15.HNL..HHI",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "NGF",
+    "route": "LIH..KOMAZ..FUZZE..NIKKI..NGF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "LIH",
+    "destination": "JRF",
+    "route": "LIH.V15.BOOKE..KEOLA..TARLE..JRF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "BKH",
+    "destination": "HNL",
+    "route": "SOK7.SOK.V15.HNL",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "BKH",
+    "destination": "OGG",
+    "route": "SOK7.SOK.V15.MKK.V22.OGG",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "BKH",
+    "destination": "LIH",
+    "route": "SOK7.SOK.V16.MORKE..LIH",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "BKH",
+    "destination": "JRF",
+    "route": "SOK7.SOK.V15.BOOKE..KEOLA..TARLE..JRF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "BKH",
+    "destination": "NGF",
+    "route": "SOK7.SOK..KOMAZ..FUZZE..NIKKI..NGF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HHI",
+    "destination": "OGG",
+    "route": "KOKOH2.LNY.CAMPS4.OGG",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": ""
+  },
+  {
+    "origin": "HHI",
+    "destination": "OGG",
+    "route": "KOKOH2.MKK.V8.BLUSH.V6.OGG",
+    "category": "military",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "HHI",
+    "destination": "ITO",
+    "route": "KOKOH2.MKK..PULPS.V21.PUMIC.V15.ITO",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": "At or above 13,000"
+  },
+  {
+    "origin": "HHI",
+    "destination": "ITO",
+    "route": "KOKOH2.LNY.V16.UPP.V2.ITO",
+    "category": "military",
+    "aircraftType": "PROPS",
+    "notes": ""
+  },
+  {
+    "origin": "HHI",
+    "destination": "KOA",
+    "route": "KOKOH2.MKK.V7.LNY.VECKI9.KOA",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": "Below 14,400"
+  },
+  {
+    "origin": "HHI",
+    "destination": "KOA",
+    "route": "KOKOH2.MKK.VECKI9.KOA",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": "Above 14,500"
+  },
+  {
+    "origin": "HHI",
+    "destination": "LNY",
+    "route": "KOKOH2.LNY",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HHI",
+    "destination": "MKK",
+    "route": "KOKOH2.MKK",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HHI",
+    "destination": "LIH",
+    "route": "GECKO2.GECKO.V16.KEOLA.HNL258R..LIH148R..LIH",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or below 9,000"
+  },
+  {
+    "origin": "HHI",
+    "destination": "LIH",
+    "route": "GECKO2.GECKO.V16.NAPUA..LIH",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "HHI",
+    "destination": "BKH",
+    "route": "GECKO2.GECKO.V16.SOK..ASAYA..BKH",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or above 10,000"
+  },
+  {
+    "origin": "HHI",
+    "destination": "NGF",
+    "route": "KOKOH2.CKH..MASAE..NUDSE..NGF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "5,000 – 9,000"
+  },
+  {
+    "origin": "NGF",
+    "destination": "HNL",
+    "route": "MUGGE1.HNL",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "NGF",
+    "destination": "OGG",
+    "route": "HELUX5.MKK.V22.OGG",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "NGF",
+    "destination": "ITO",
+    "route": "HELUX5.MKK.V7.LNY.V21.PUMIC.V15.ITO",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or above 10,000"
+  },
+  {
+    "origin": "NGF",
+    "destination": "ITO",
+    "route": "HELUX5.MKK.V7.LNY.V16.UPP.V2.ITO",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "NGF",
+    "destination": "KOA",
+    "route": "HELUX5.MKK.V7.LNY.VECKI9.KOA",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "Below 14,400"
+  },
+  {
+    "origin": "NGF",
+    "destination": "KOA",
+    "route": "HELUX5.MKK.VECKI9.KOA",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "Above 14,500"
+  },
+  {
+    "origin": "NGF",
+    "destination": "MKK",
+    "route": "HELUX5.MKK",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "NGF",
+    "destination": "LIH",
+    "route": "NGF5.SOK..LIH",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "NGF",
+    "destination": "BKH",
+    "route": "NGF5.SOK..ASAYA..BKH",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "NGF",
+    "destination": "JRF",
+    "route": "MUGGE1.HNL..GECKO..TARLE..JRF",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": "At or below 16,000"
+  },
+  {
+    "origin": "JRF",
+    "destination": "OGG",
+    "route": "JRF..LNY.CAMPS4.OGG",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": ""
+  },
+  {
+    "origin": "JRF",
+    "destination": "OGG",
+    "route": "JRF..MKK.V22.OGG",
+    "category": "military",
+    "aircraftType": "JETS",
+    "notes": "At or above 7,000, Maui South Flow"
+  },
+  {
+    "origin": "JRF",
+    "destination": "OGG",
+    "route": "JRF..MKK.V8.BLUSH.V6.OGG",
+    "category": "military",
+    "aircraftType": "PROPS",
+    "notes": "At or below 6,000, Maui South Flow"
+  },
+  {
+    "origin": "JRF",
+    "destination": "OGG",
+    "route": "JRF..IWOHI..CKH.V15.MKK.V22.PLUMB.V6.OGG",
+    "category": "military",
+    "aircraftType": "C208",
+    "notes": ""
+  },
+  {
+    "origin": "JRF",
+    "destination": "KOA",
+    "route": "JRF..PALAY.V2.LNY.VECKI9.KOA",
+    "category": "military",
+    "aircraftType": "ALL",
+    "notes": ""
+  },
+  {
+    "origin": "JRF",
+    "destination": "MKK",
+    "route": "JRF..IWOHI..CKH.V15.MKK",
+    "category": "military",
+    "aircraftType": "C208",
+    "notes": ""
+  }
+]
