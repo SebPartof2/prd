@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useMemo, useRef, useEffect } from "react";
-import Image from "next/image";
 import {
   routes,
   AIRPORT_NAMES,
@@ -157,8 +156,9 @@ export default function Home() {
       <header className="bg-gradient-to-r from-navy-dark via-navy to-navy-light text-white shadow-xl">
         <div className="max-w-5xl mx-auto px-4 py-0">
           <div className="flex items-center gap-5 h-16">
-            <Image
-              src="/vhcf-logo.png"
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/vhcf-logo.png`}
               alt="vHCF Logo"
               width={44}
               height={44}
